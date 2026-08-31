@@ -1,0 +1,37 @@
+body {
+    background-color: darkblue;
+}
+
+div {
+    display: flex;
+}
+
+#c {
+    color: goldenrod;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+    justify-content: center;
+}
+
+#info {
+    color: chartreuse;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    width: 25%;
+    border-radius: 30px;
+}
